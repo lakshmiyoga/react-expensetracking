@@ -1,0 +1,119 @@
+{
+  "registration": [
+    {
+      "id": 1,
+      "firstName": "akash",
+      "lastName": "a",
+      "email": "akash@gmail.com",
+      "password": "12345"
+    },
+    {
+      "firstName": "yoga",
+      "lastName": "lakshmi",
+      "email": "yoga@gmail.com",
+      "password": "Yoga@123",
+      "id": 2
+    }
+  ],
+  "book": [
+    {
+      "name": "potter",
+      "expenseCategory": "snacks",
+      "expenseAmount": 1000,
+      "paidBy": "cash",
+      "date": "3-31-2023",
+      "email": "potter@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "manoj",
+      "expenseCategory": "Groceries",
+      "expenseAmount": "76786",
+      "paidBy": "Cash",
+      "date": "2023-03-31",
+      "email": null,
+      "id": 4
+    },
+    {
+      "name": "hg",
+      "expenseCategory": "Groceries",
+      "expenseAmount": "6786",
+      "paidBy": "Card",
+      "date": "2023-04-01",
+      "email": null,
+      "id": 6
+    },
+    {
+      "name": "manoj",
+      "expenseCategory": "Groceries",
+      "expenseAmount": "676",
+      "paidBy": "Cash",
+      "date": "2023-04-01",
+      "email": null,
+      "id": 7
+    },
+    {
+      "name": "sdc",
+      "expenseCategory": "Movie",
+      "expenseAmount": "1000",
+      "paidBy": "Account",
+      "date": "2023-04-01",
+      "email": "hem@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "aaaa",
+      "expenseCategory": "Groceries",
+      "expenseAmount": "2000",
+      "paidBy": "UPI",
+      "date": "2023-04-05",
+      "email": "yoga@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "mmmm",
+      "expenseCategory": "Snacks",
+      "expenseAmount": "900",
+      "paidBy": "Card",
+      "date": "2023-04-05",
+      "email": "yoga@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "cccc",
+      "expenseCategory": "Snacks",
+      "expenseAmount": "543",
+      "paidBy": "UPI",
+      "date": "2023-04-04",
+      "email": "yoga@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "jjj",
+      "expenseCategory": "Outing",
+      "expenseAmount": "900",
+      "paidBy": "Card",
+      "date": "2023-04-04",
+      "email": "yoga@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "bbb",
+      "expenseCategory": "Movie",
+      "expenseAmount": "900",
+      "paidBy": "UPI",
+      "date": "2023-04-04",
+      "email": "yoga@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "manoj",
+      "expenseCategory": "Groceries",
+      "expenseAmount": "1000",
+      "paidBy": "Cash",
+      "date": "2023-04-10",
+      "email": "yoga@gmail.com",
+      "id": 16
+    }
+  ]
+}
